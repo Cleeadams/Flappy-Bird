@@ -1,1 +1,1 @@
-# Flappy Bird Using Rust
+# Flappy Bird using Rust
